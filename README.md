@@ -36,7 +36,7 @@ python3 backups_remove.py -d 365 /home/user/backups
     ```
    Добавить строчку
    ```bash
-    0 12 * * * root python3 backups_remove.py -d 365 /home/user/backups
+    30 12 * * * root python3 backups_remove.py -d 365 /home/user/backups
     ```
    365 - заменить на нужное число дней
 
