@@ -1,6 +1,6 @@
 # Утилита для удаления резервных копий DataExpress
 
-Утилита позволяет удалять резервные копии создаваемые по принципу описанному в [статье](https://mydataexpress.ru/baza-dannykh-v-oblake-ustanovka-firebird-na-vds.html) через заданное количество дней.
+Утилита позволяет удалять резервные копии, создаваемые по принципу описанному в [статье](https://mydataexpress.ru/baza-dannykh-v-oblake-ustanovka-firebird-na-vds.html), через заданное количество дней.
 
 ## Использование
 
